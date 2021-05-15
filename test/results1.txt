@@ -1,0 +1,4 @@
+FCFS -> 12 54 150 17 41 Total Head Movement 383
+SSTF -> 54 41 17 12 150 Total Head Movement 226
+SCAN -> 150 54 41 17 12 Total Head Movement 1934
+C-SCAN -> 150 12 17 41 54 Total Head Movement 2000
